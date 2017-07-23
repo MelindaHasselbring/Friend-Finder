@@ -8,5 +8,3 @@ This app is a compatibility-based application. To determine the user's most comp
 The app will then display the name and picture of the user with the best overall match.
 
 Take the survey here:  https://pure-journey-42111.herokuapp.com/ 
-
-![FF-Home page](public/assets/images/friends.png)
