@@ -9,4 +9,4 @@ The app will then display the name and picture of the user with the best overall
 
 Take the survey here:  https://pure-journey-42111.herokuapp.com/ 
 
-![FF-Home page](./assets/images/friends.png)
+![FF-Home page](./public/assets/images/friends.png)
